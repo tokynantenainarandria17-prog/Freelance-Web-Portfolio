@@ -8,7 +8,7 @@ Ce dépôt est une compilation de mes travaux réalisés en collaboration freela
 ## 📊 Récapitulatif des 10+ Projets
 | Projets | Type | Particularités | Preuves |
 | :--- | :--- | :--- | :--- |
-| **D4D** | Site Vitrine | **Multilingue** (FR/EN/IT/ES) | [Dossier 📂](./D4D.FR) |
+| **D4D** | Site Vitrine | **Multilingue** (FR/EN/IT/ES) | [Dossier 📂](D4D.FR) |
 | **02_Landing_BTP** | Landing Page | **2-3 Pages** / Focus UI | [Dossier 📂](./02_Landing_BTP) |
 | **03_Maintenance_ONG** | Maintenance | Mise à jour structurelle | [Dossier 📂](./03_ONG_Maintenance) |
 | *(Ajouter les suivants ici)* | ... | ... | ... |
